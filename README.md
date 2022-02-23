@@ -2,6 +2,7 @@
 
         study some factors that affects the prefomance of students in Math ' raeding and writing Tests 
         these factors are gender,parental level of education,lunch 
+        the data is for 1000 students 
 
 ![students_preformance](https://user-images.githubusercontent.com/83555471/155415819-9b216daa-07a3-41ce-8c9b-28cbcbe81d16.png)
 
